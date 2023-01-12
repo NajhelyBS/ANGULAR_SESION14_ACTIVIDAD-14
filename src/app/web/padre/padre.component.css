@@ -1,0 +1,30 @@
+body {
+    padding: 1em;
+    background: #1D976C;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #93F9B9, #1D976C);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #93F9B9, #1D976C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    height: 100vh;
+}
+
+#container {
+    background-color: #93F9B9;
+    margin-top: 22px;
+    border-radius: 20px;
+    width: 30em;
+    height: 32em;
+}
+
+h1{
+    color:#93F9B9;
+    text-shadow:rgb(13, 100, 42) 0px 1px 12px;
+}
+
+#form {
+    padding-right: 2em;
+    padding-left: 2em;
+    padding-top: 1em;
+}
+
+label {
+    font-weight: 630;
+}
