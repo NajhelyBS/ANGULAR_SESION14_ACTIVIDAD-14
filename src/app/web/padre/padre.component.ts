@@ -24,6 +24,6 @@ export class PadreComponent {
       "Estado Civil": this.estado,
     }
 
-    this.show = !this.show;
+    this.show = true;
   }
 }
